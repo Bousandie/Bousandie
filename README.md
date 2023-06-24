@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **busayomioloyade2015@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/busayomi-oyinkansola-oloyade-07960b1b0/](https://www.linkedin.com/in/busayomi-oyinkansola-oloyade-07960b1b0/)
+- 📄 Know about my experiences https://www.linkedin.com/in/busayomi-oyinkansola-oloyade-07960b1b0/
 
 - ⚡ Fun fact **I am the coolest and most chilled-out frontend developer in the block 😁**
 
